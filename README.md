@@ -4,7 +4,7 @@
   <h1 align="center">Hi, I'm LonggVuz</h3>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFC00&width=500&lines=I'm+a+student+from+Viet+Nam;I'm+a+Passionate+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FFFC00&width=800&lines=I'm+a+student+from+Viet+Nam;I'm+a+Passionate+Developer)](https://git.io/typing-svg)
 
 # 💫 About me:
 🔭 I am currently studying at PTIT Hanoi.
