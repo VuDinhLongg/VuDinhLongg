@@ -2,6 +2,10 @@
   <img src="https://camo.githubusercontent.com/e6a28ada6b202769db7ce939b9e318173acfd41f0c9fad65f62896c36b2c56ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e676966" alt="Profile Image" width="168"/>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VuDinhLongg&color=red" alt="Profile Views" />
+</div>
+
 <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Profile Image" width="80"/>     [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FFFC00&width=500&lines=I'm+a+student+from+Viet+Nam+!!!;I'm+a+Passionate+Developer+!!!)](https://git.io/typing-svg)
 
 # 💫 About me:
